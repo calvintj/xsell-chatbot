@@ -1,0 +1,7 @@
+python-dotenv
+langchain-openai
+pinecone
+tqdm
+datasets
+unstructured
+beautifulsoup4
